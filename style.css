@@ -1,0 +1,9 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+.heading{
+  color: blueviolet;
+  margin-top: 100px;
+  margin-left: 40px;
+}
